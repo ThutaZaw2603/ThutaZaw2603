@@ -1,4 +1,5 @@
-### Hi there 👋
+### I'm currently learning React.js and CS basic
+
 
 <!--
 **ThutaZaw2603/ThutaZaw2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
