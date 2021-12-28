@@ -1,4 +1,4 @@
-### I'm currently learning React.js and CS basic
+### I change my role to UI/UX designer
 
 
 <!--
